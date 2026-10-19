@@ -1,0 +1,40 @@
+Artifact 2: Something You Will Use 
+Version 1.0 (September 26, 2026) 
+Time Estimate: 8-12 hours 
+One week, on your own 
+Due Sunday, October 18 at 11:59 PM
+Canvas 
+Description 
+Build something for yourself: a thing that runs, does one real thing, and that you will actually use after this week. This is your first build with Claude Code, so it should be small. Since you are the only user, you are free to decide for yourself what counts as "working". 
+Learning Outcomes 
+Completing this artifact will allow you to: 
+1. Set up and work in Claude Code on a project of your own. 
+2. Keep a project's context in order across sessions (a CLAUDE.md , commits, notes to yourself). 
+3. Check that what the agent built actually does what you asked. 
+Instructions 
+1. Pick something you will use. 
+2. Set up the repository. 
+3. Build it with Claude Code. 
+4. Keep a log. 
+5. Fill in your portfolio card. 
+6. Submit your portfolio link. 
+Details 
+Pick something you will use. One of your portfolio placeholders is a good place to start, but you are free to pick anything. Some shapes that fit a week: 
+A command-line tool that automates a chore (renaming files, tracking your hours, reformatting your notes) 
+A small game you would play 
+A bot for a Discord server you are in 
+A scraper plus a page that shows what it found 
+A back end your portfolio calls (a guestbook, a "currently reading" list) 
+It does not have to be a web app, though it should be something you are likely to still be running in Week 5. 
+Set up the repository. Create a repository before you write anything and commit as you go (this lets you roll back when the agent breaks something that was working). Please see Your First Session, which covers installing Claude Code and starting it in a repository. A short CLAUDE.md describing the project is a good idea from the first session. 
+Build it with Claude Code. You may use any stack. If you get stuck, bring it to Monday class or to your learning group on Wednesday, so that you do not lose an evening to it. 
+Keep a log. Keep a record in the repository of what you planned and what changed as you went. There is no required format, and you may have the agent keep it for you. Please see Keep a log. 
+Fill in your portfolio card. Replace the Artifact 2 placeholder with the title, a link (the repository, or a short demo video if there is nothing to click), and a short reflection: a few sentences on how it went and what you learned. 
+Submit your portfolio link. Submit the same link you submitted for Artifact 1, on Canvas.
+What Complete Looks Like 
+This artifact is complete if it runs, its repository has a log of plans and changes, and its card is on your portfolio. There is no minimum size. If you ask whether it is good enough, we will answer with what would make it better (please see Labor-Based Grading). 
+Course Learning Objectives 
+Course Learning Objectives
+This artifact contributes to the following course learning objectives: 
+LO 1: Select and configure AI coding tools appropriate to a given task or project context LO 2: Manage context effectively across tools, sessions, and collaborators LO 4: Verify and critically evaluate AI-generated code and design suggestions LO 7: Plan and version AI-assisted projects with appropriate documentation and traceability 
+September 26, 2026 
